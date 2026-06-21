@@ -1,0 +1,7 @@
+yfinance>=0.2.36
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.5.0
+
+# Optional GPU acceleration
+# cupy-cuda12x>=14.0.0  # Install appropriate version for your CUDA toolkit
