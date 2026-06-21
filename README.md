@@ -1,5 +1,12 @@
 # Trading Strategy Backtesting Project
 
+![GitHub Issues](https://img.shields.io/github/issues/yourusername/yourrepo?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=for-the-badge)
+![GitHub Forks](https://img.shields.io/github/forks/yourusername/yourrepo?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/yourusername/yourrepo?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3.7%2B-blue?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/yourrepo?style=for-the-badge)
+
 This project implements and backtests various trading strategies, with a primary focus on Bollinger Bands strategy enhanced with multiple technical indicators, risk management, and regime analysis.
 
 ## Features
