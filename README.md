@@ -1,11 +1,11 @@
 # Trading Strategy Backtesting Project
 
-![GitHub Issues](https://img.shields.io/github/issues/yourusername/yourrepo?style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=for-the-badge)
-![GitHub Forks](https://img.shields.io/github/forks/yourusername/yourrepo?style=for-the-badge)
-![GitHub License](https://img.shields.io/github/license/yourusername/yourrepo?style=for-the-badge)
+![GitHub Issues](https://img.shields.io/github/issues/Angad2005/Trading-Stratergy?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/Angad2005/Trading-Stratergy?style=for-the-badge)
+![GitHub Forks](https://img.shields.io/github/forks/Angad2005/Trading-Stratergy?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/Angad2005/Trading-Stratergy?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/yourrepo?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Angad2005/Trading-Stratergy?style=for-the-badge)
 
 ## Project Overview
 
@@ -226,7 +226,6 @@ Next Steps for Further Improvement:
 To validate the core functions with synthetic data:
 
 ```bash
-cd /home/angad/Trading-Stratergy
 python3 -m unittest test_bollinger_backtest.py
 ```
 
@@ -277,9 +276,29 @@ Past performance is not indicative of future results. Trading involves substanti
 
 ## License
 
-MIT License – feel free to use, modify, and distribute this code for personal or educational purposes. See the [LICENSE](LICENSE) file for details (if added) or assume standard MIT terms.
+MIT License
+
+Copyright (c) 2026 Angad2005
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
 
 ---
 
-*Last updated: June 21, 2026*  
+*Last updated: June 25, 2026*  
 *Created for demonstration of quantitative trading strategy development skills.*  
