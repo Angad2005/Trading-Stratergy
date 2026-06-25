@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Angad2005/Trading-Stratergy?style=for-the-badge)
 
-## Project Overview
+## What This Project Is About
 
 This repository contains a complete, end-to-end quantitative trading strategy backtesting framework focused on a Bollinger Bands-based mean-reversion strategy enhanced with multiple technical indicators, dynamic risk management, and realistic trading costs. The project demonstrates the full lifecycle of strategy development: from data acquisition and signal generation to risk-adjusted position sizing, transaction cost modeling, regime analysis, and performance reporting.
 
@@ -29,7 +29,7 @@ It is designed as a portfolio piece for quantitative trading roles, showcasing b
 
 ---
 
-## What Happens When You Run the Project
+## How to Run This Project
 
 Executing `python3 bollinger_band_backtest.py` triggers the following sequence:
 
